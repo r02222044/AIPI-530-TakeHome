@@ -61,7 +61,7 @@ if __name__ == '__main__':
     parser.add_argument('--dataset',
                         type=str,
                         default='hopper-bullet-mixed-v0')
-    parser.add_argument('--seed', type=int, default=1)
+    parser.add_argument('--seed', type=int, default=42)
     parser.add_argument('--q-func',
                         type=str,
                         default='mean',
