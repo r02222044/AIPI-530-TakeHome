@@ -27,6 +27,9 @@ You can expect two achievements of this project, as shown in below:
 >>* OPE(FQE)-Estimated_Q-value:  
 >>```/content/AIPI-530-TakeHome/examples/pybullet/d3rlpy_logs/CQL_20211206031609/environment.csv```
 
+4. **Examples**
+![img.png](cql.png)
+![img.png](fqe.png)
 ## citation
 The paper is available [here](https://arxiv.org/abs/2111.03788).
 ```
