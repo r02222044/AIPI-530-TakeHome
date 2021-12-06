@@ -33,6 +33,8 @@ You can expect two achievements of this project, as shown in below:
 **OPE(FQE):**   
 ![img.png](https://github.com/r02222044/AIPI-530-TakeHome/blob/master/FQE.png)
 
+ * You can find colab example here:    
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kjDqI3B2RypO0O7jArl_bNktNGJjfdd5#scrollTo=rcyjCuwihFNK)
 
 ## citation
 The repository is modified from [d3rlpy](https://github.com/takuseno/d3rlpy).
