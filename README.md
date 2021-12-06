@@ -18,7 +18,14 @@ You can expect two achievements of this project, as shown in below:
 1. **Define Parameter** : You can modify the parameters of the model in train_cql.py, such as n_epochs, learning rate, score function, etc.  
 ***Path:*** ```/content/AIPI-530-TakeHome/examples/pybullet/train_cql.py```
 2. **Execution:** Run ```!python train_cql.py```
-3. **Results**: ❗❗❗**Path** may change each time, please notice the file name if warning message pops out❗❗❗
+3. **Results**: Logs are stored in the following path.  
+❗❗❗**Path** may change each time, please notice the file path if warning message pops out❗❗❗
+>>* CQL-Average_Reward:  
+>>```/content/AIPI-530-TakeHome/examples/pybullet/d3rlpy_logs/CQL_20211206031609/environment.csv```
+>>* CQL-Estimated_Q-Value:  
+>>```/content/AIPI-530-TakeHome/examples/pybullet/d3rlpy_logs/CQL_20211206031609/estimated Q.csv```
+>>* OPE(FQE)-Estimated_Q-value:  
+>>```/content/AIPI-530-TakeHome/examples/pybullet/d3rlpy_logs/CQL_20211206031609/environment.csv```
 
 ## citation
 The paper is available [here](https://arxiv.org/abs/2111.03788).
