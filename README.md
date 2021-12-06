@@ -28,21 +28,11 @@ You can expect two achievements of this project, as shown in below:
 >>```/content/AIPI-530-TakeHome/examples/pybullet/d3rlpy_logs/CQL_20211206031609/environment.csv```
 
 4. **Examples**
-![img.png](cql.png)
-![img.png](fqe.png)
-## citation
-The paper is available [here](https://arxiv.org/abs/2111.03788).
-```
-@InProceedings{seno2021d3rlpy,
-  author = {Takuma Seno, Michita Imai},
-  title = {d3rlpy: An Offline Deep Reinforcement Library},
-  booktitle = {NeurIPS 2021 Offline Reinforcement Learning Workshop},
-  month = {December},
-  year = {2021}
-}
-```
+**CQL:**  
+![img.png](https://github.com/r02222044/AIPI-530-TakeHome/blob/master/CQL.png)
+**OPE(FQE):**   
+![img.png](https://github.com/r02222044/AIPI-530-TakeHome/blob/master/FQE.png)
 
-## acknowledgement
-This work is supported by Information-technology Promotion Agency, Japan
-(IPA), Exploratory IT Human Resources Project (MITOU Program) in the fiscal
-year 2020.
+
+## citation
+The repository is modified from [d3rlpy](https://github.com/takuseno/d3rlpy).
