@@ -21,6 +21,13 @@ You can expect two achievements of this project, as shown in below:
 
 5. What is offline reinforcement learning.   
 
+6. What are the pros and cons of offline reinforcement learning
+
+7. When should we consider applying offline reinforcement learning (and when should not)
+
+8. Have an example of offline reinforcement learning in the real-world 
+
+
 ➡️ [blog](https://medium.com/@q0919239042/reinforcement-q-a-c3d414bf62f5)
  
  
