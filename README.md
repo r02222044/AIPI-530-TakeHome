@@ -21,7 +21,7 @@ You can expect two achievements of this project, as shown in below:
 
 5. What is offline reinforcement learning.   
 
-➡️ [blog](https://medium.com/@q0919239042/reinforcement-learning-q-a-a435ea1c5d08)
+➡️ [blog](https://medium.com/@q0919239042/reinforcement-q-a-c3d414bf62f5)
  
  
  
